@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(33,37,41);
+}
+
+.carousel-item h5 p {
+    text-shadow: 2px 2px 5px #2c2929;
+}
+
+.card img {
+    height: 350px;
+    width: 100%;
+    object-fit: cover;
+}
